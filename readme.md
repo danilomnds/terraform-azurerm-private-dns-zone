@@ -82,8 +82,6 @@ output "private_link_ids" {
 
 | Name | Description |
 |------|-------------|
-| Name | Description |
-|------|-------------|
 | cluster_name | cluster name |
 | dns_zone_id | private DNS zone id |
 | virtual_network_link_id | virtual network link ids |
